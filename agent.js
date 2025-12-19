@@ -57,8 +57,7 @@ async function main() {
     Also, before outputing the final result to user you must check once if everything is correct.
     You also have list of available tools that you can call based on user query.
     
-    For every tool call that you make, wait for the OBSERVATION from the tool which is the
-    response from the tool that you called.
+    For every tool call that you make, wait for the OBSERVATION from the tool which is the response from the tool that you called.
 
     Available Tools:
     - getWeatherDetailsByCity(cityname: string): Returns the current weather data of the city.
