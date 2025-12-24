@@ -15,9 +15,12 @@
     "@langchain/community": "^1.1.1",
     "@langchain/core": "^1.1.7",
     "@langchain/langgraph": "^1.0.7",
+    "@openai/agents": "^0.3.7",
     "dotenv": "^17.2.3",
     "js-tiktoken": "^1.0.21",
     "openai": "^6.10.0",
-    "pdf-parse": "^2.4.5"
+    "pdf-parse": "^2.4.5",
+    "playwright": "^1.57.0",
+    "zod": "^3.25.76"
   }
 }
